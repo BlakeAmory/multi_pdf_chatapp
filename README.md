@@ -13,9 +13,6 @@ The Multi-PDF's Chat Agent is a web application with a React frontend and FastAP
 ### Sample Answer
 ![Answer Sample](images/answer_sample.png)
 
-### Development Environment
-![IDE Setup](images/IDE.png)
-
 ## 🎯 How It Works:
 ------------
 
